@@ -1,2 +1,2 @@
-# pytyhon
+# python
 ### Machine learning training area
