@@ -1,2 +1,2 @@
-# python
-### Machine learning training area
+# Python
+### Some Sample Machine Learning Scripts
