@@ -1,5 +1,2 @@
-# python
-Various python code
-
-### Description
-Machine learning training area
+# pytyhon
+### Machine learning training area
